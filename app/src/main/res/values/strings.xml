@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GhimHeeFamilyShoppingApp</string>
+    <string name="fruits_and_veggies">Fruits and Vegetables</string>
+    <string name="meat_poultry_and_eggs">Meat,Poultry and Eggs</string>
+</resources>
